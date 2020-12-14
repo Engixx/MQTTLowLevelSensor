@@ -29,7 +29,7 @@ Project contains:
                     +    - MQTT-brocker                 <--------|
                     +++++++++++++++++++++++++++++++++++++
 
-
+![plot](./doc/electric-circuit-draw.png)
 
 
 
